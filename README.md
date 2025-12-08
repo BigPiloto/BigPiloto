@@ -15,6 +15,7 @@ Com sólida base técnica adquirida ao longo de 11 anos como Técnico Industrial
 Busco aplicar minhas habilidades em engenharia elétrica, automação e programação para desenvolver soluções inovadoras que aumentem a eficiência, segurança e conforto no setor residencial e industrial.
 
 ---
+<!--
 #### Minhas estatísticas
 
 ###
@@ -23,6 +24,7 @@ Busco aplicar minhas habilidades em engenharia elétrica, automação e programa
   <img src="https://github-readme-stats.vercel.app/api?username=bigpiloto&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bigpiloto&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=true" height="150" alt="languages graph"  />
 </div>
+-->
 
 ###
 
