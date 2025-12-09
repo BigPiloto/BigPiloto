@@ -8,7 +8,7 @@
 
 ***A empatia deve ser uma prioridade***
 
-Engenheiro Eletricista com 1 ano e 7 meses de experiência como CEO e desenvolvedor na área de automação residencial, focado em integrar tecnologias IoT para otimizar ambientes inteligentes.
+Engenheiro Eletricista com 1 ano e 10 meses de experiência como CEO e desenvolvedor na área de automação residencial, focado em integrar tecnologias IoT para otimizar ambientes inteligentes.
 
 Com sólida base técnica adquirida ao longo de 11 anos como Técnico Industrial em Eletrotécnica, desenvolvi experiência em sistemas elétricos, automação e gestão de energia.
 
